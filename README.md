@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img width="1418" alt="메인페이지" src="https://user-images.githubusercontent.com/113018906/231677583-a99b93ec-dee4-481c-95f6-56bd4c7407f3.png">
+<img width="1200" alt="메인페이지" src="https://user-images.githubusercontent.com/113018906/231677583-a99b93ec-dee4-481c-95f6-56bd4c7407f3.png">
 
 
 ## 주요 기능
